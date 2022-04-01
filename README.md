@@ -24,6 +24,12 @@ color:#0000;
 <h1>Título do nivel 1</h1>
 ```
 
+lista de tarefas a fazer no repositorio:
+
+- [ ] melhorar a documentaçao do repositorio
+- [ ] ler a documentaçao sobre markdown
+- [ ] ler a documentaçao do git/hub
+
 ## Referências
 
 
